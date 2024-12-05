@@ -1,6 +1,6 @@
 # ChristmasChestsAllYear
 
-**SUPPORT FOR NEW CHEST BOATS!!!**
+**SUPPORT FOR NEW PALE OAK CHEST BOAT!!!**
 
 Changes the default texture of chests to their Christmas textures and adds new ones.
 Ideal for making content or Christmas themed builds!
