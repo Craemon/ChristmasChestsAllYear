@@ -11,3 +11,5 @@ New textures for:
 - Llamachests
 - Donkey-/Mulechests
 - Trappedchests and Trappeddoublechests
+
+**Moved to:** https://github.com/Craemon/Resourcepacks
